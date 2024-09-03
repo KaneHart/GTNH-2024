@@ -9,7 +9,6 @@ Note: Optifine is now Part of the Client. Just Delete Fastcraft 1.23 Version and
 * TabbyChat-1.7.10-1.11.2.2-fml.jar
 * EasyConfigButton-1.0.jar
 * CleanView-1.7.10-v2.jar
-* Ding-MC1.7.10v2.jar
 * Neat+1.0-1.jar
 
 ### Added Client Resources:
