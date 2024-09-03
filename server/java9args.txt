@@ -1,5 +1,6 @@
 -Dfile.encoding=UTF-8
 -Djava.system.class.loader=com.gtnewhorizons.retrofuturabootstrap.RfbSystemClassLoader
+-Dgt.recipebuilder.recipe_collision_check=true
 -Djava.security.manager=allow
 --add-opens
 java.base/jdk.internal.loader=ALL-UNNAMED
