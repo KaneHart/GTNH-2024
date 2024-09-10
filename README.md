@@ -1,5 +1,6 @@
 # GTNH-2024
- StoneLegion.Com GregTech 2024 Private Friends & Family Server!
+ StoneLegion.Com GregTech 2024 Test Server! For the New Friends and Family Server: https://github.com/StoneLegion/GTNH-2025
+
 
 ## Server Information:
 Server IP: mc.stonelegion.com:PORT
